@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-size: 120%;
+    color:#000000;
+    background-color: khaki;
+}
+
+.navbar{
+background-color: peru;
+border:2px;
+padding: 10px;
+border-collapse: collapse;
+border-style: solid;
+margin-bottom: 15px;
+border-color:black;
+
+}  
+.navbar-brand{
+    width: 100px;
+    float:left;
+}
+
+.nav-link1{
+    width: 100px;
+    float :left;
+}
+.nav-link{
+    width:100px;
+   
+}
+.option1{
+   
+    float:left;
+}
+
+.card{
+    margin-left: 50px;
+    width: 400px;
+    border: 2px;
+    border-style: solid;
+    border-collapse: collapse;
+}
+.card-header{
+    text-align: center;
+}
+.card-body{
+    padding-left: 50px;
+}
+.col-md-4{
+    padding: 10px;
+}
+.form-control{
+    margin: 10px;
+}
+.form-check{
+    margin:10px;
+}
